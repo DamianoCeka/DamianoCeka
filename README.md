@@ -20,6 +20,7 @@
 - 🎮 Content creator e organizzatore di tornei esports: oltre 34.000 persone tra TikTok, Twitch e Discord
 - ⚔️ Gestisco una community italiana di Valorant: [discord.gg/itsme](https://discord.gg/itsme)
 - 🤝 Riot Partner e Logitech G Italia
+- 🖱️ Codice sconto Logitech G: **`ITSME10`**
 - 💻 Lavoro nell'ICT in BCC Annia
 - 🛠️ In questo periodo: la dashboard staff della community itsme
 
