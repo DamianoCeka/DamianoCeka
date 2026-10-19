@@ -8,6 +8,7 @@
 
 <p align="center">
   <a href="https://www.twitch.tv/itsme_officialttv"><img src="https://img.shields.io/badge/Twitch-itsme__officialttv-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" /></a>
+  <a href="https://www.tiktok.com/@itsme_officialttv"><img src="https://img.shields.io/badge/TikTok-itsme__officialttv-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
   <a href="https://damianoceka.github.io"><img src="https://img.shields.io/badge/Sito-damianoceka.github.io-FF4655?style=for-the-badge&logo=githubpages&logoColor=white" alt="Sito" /></a>
 </p>
 
