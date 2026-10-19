@@ -7,6 +7,7 @@
 </p>
 
 <p align="center">
+  <a href="https://www.twitch.tv/itsme_officialttv"><img src="https://img.shields.io/twitch/status/itsme_officialttv?style=for-the-badge&logo=twitch&logoColor=white&label=Live&color=ff4655" alt="Stato live su Twitch" /></a>
   <a href="https://www.twitch.tv/itsme_officialttv"><img src="https://img.shields.io/badge/Twitch-itsme__officialttv-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" /></a>
   <a href="https://www.tiktok.com/@itsme_officialttv"><img src="https://img.shields.io/badge/TikTok-itsme__officialttv-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
   <a href="https://damianoceka.github.io"><img src="https://img.shields.io/badge/Sito-damianoceka.github.io-FF4655?style=for-the-badge&logo=githubpages&logoColor=white" alt="Sito" /></a>
@@ -28,6 +29,10 @@
 </p>
 
 <p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamianoCeka&layout=compact&hide_border=true&bg_color=0f1923&title_color=ff4655&text_color=ece8e1&locale=it" alt="Linguaggi più usati" />
+</p>
+
+<p align="center">
   <img src="https://github-trophies.vercel.app/?username=DamianoCeka&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trofei" />
 </p>
 
@@ -37,6 +42,10 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DamianoCeka/DamianoCeka/output/github-snake.svg" />
     <img src="https://raw.githubusercontent.com/DamianoCeka/DamianoCeka/output/github-snake-dark.svg" alt="Serpente dei contributi" />
   </picture>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DamianoCeka&style=for-the-badge&color=ff4655&label=VISITE+PROFILO" alt="Visite al profilo" />
 </p>
 
 <p align="center">
