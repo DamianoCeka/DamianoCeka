@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DamianoCeka&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trofei" />
+  <img src="https://github-trophies.vercel.app/?username=DamianoCeka&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trofei" />
 </p>
 
 <p align="center">
