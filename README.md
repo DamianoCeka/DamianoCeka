@@ -9,6 +9,8 @@
 <p align="center">
   <a href="https://www.twitch.tv/itsme_officialttv"><img src="https://img.shields.io/twitch/status/itsme_officialttv?style=for-the-badge&logo=twitch&logoColor=white&label=Live&color=ff4655" alt="Stato live su Twitch" /></a>
   <a href="https://www.twitch.tv/itsme_officialttv"><img src="https://img.shields.io/badge/Twitch-itsme__officialttv-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" /></a>
+  <a href="https://discord.gg/itsme"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscord.com%2Fapi%2Fv10%2Finvites%2Fitsme%3Fwith_counts%3Dtrue&query=%24.approximate_member_count&style=for-the-badge&logo=discord&logoColor=white&label=Discord&color=5865F2&suffix=%20membri" alt="Membri Discord" /></a>
+  <a href="https://discord.gg/itsme"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscord.com%2Fapi%2Fv10%2Finvites%2Fitsme%3Fwith_counts%3Dtrue&query=%24.approximate_presence_count&style=for-the-badge&logo=discord&logoColor=white&label=Online&color=23a55a" alt="Online su Discord" /></a>
   <a href="https://www.tiktok.com/@itsme_officialttv"><img src="https://img.shields.io/badge/TikTok-itsme__officialttv-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
   <a href="https://damianoceka.github.io"><img src="https://img.shields.io/badge/Sito-damianoceka.github.io-FF4655?style=for-the-badge&logo=githubpages&logoColor=white" alt="Sito" /></a>
 </p>
@@ -16,7 +18,7 @@
 ## Chi sono
 
 - 🎮 Content creator e organizzatore di tornei esports
-- ⚔️ Gestisco una community italiana di Valorant
+- ⚔️ Gestisco una community italiana di Valorant: [discord.gg/itsme](https://discord.gg/itsme)
 - 🤝 Riot Partner e Logitech G Italia
 - 💻 Lavoro nell'ICT in BCC Annia
 - 🛠️ In questo periodo: la dashboard staff della community itsme
